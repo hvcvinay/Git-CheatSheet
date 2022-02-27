@@ -28,5 +28,4 @@ type (i) to write in vim editor
    // skip stagging area 
    --> git add -a -m "[masseage]"
 
-   git token 
-   --> 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
+   
